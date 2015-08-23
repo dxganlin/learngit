@@ -3,4 +3,4 @@ Git is free software.
 I like it.
 I add an new license file.I am testing merge.
 Test FF.
-This is a multi-person process.
+This is a multi--person process.
